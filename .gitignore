@@ -4,4 +4,5 @@ cypress.config.js
 cypress/fixtures/images
 
 communityUsers.json
+
 cypress/fixtures/communityUsers.json
