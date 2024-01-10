@@ -2,5 +2,5 @@ cypress.env.json
 cypress.config.js
 
 cypress/fixtures/images
-/communityUsers.json
-cypress\fixtures\communityUsers.json
+communityUsers.json
+cypress/fixtures/communityUsers.json
